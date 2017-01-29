@@ -46,6 +46,8 @@ $(".login, .login *").click(function(){
       current = true;
       pass = caesarShift(ids.passwords[i],-2);
     }
+    else {
+    }
   }
   if(current) {
     $(".user").removeClass("error");
@@ -55,12 +57,11 @@ $(".login, .login *").click(function(){
       setTimeout(function(){
         $("html").addClass("animated");
         $("html").addClass("fadeOut");
-      }, 5000)
-      location.href = "login/"+pass;
-    }, 5000)
+      }, 2000)
+      location.href = "../login/account.html#"+pass;
+    }, 2000)
   }
   else {
     $(".user").addClass("error");
   }
 })
-
