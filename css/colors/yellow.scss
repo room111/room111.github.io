@@ -1,0 +1,18 @@
+&.mdc-yellow {
+  background-color: $yellow;
+  * {
+    color: black;
+  }
+}
+&.mdc-dark-yellow {
+  background-color: $yellow-700;
+  * {
+    color: black;
+  }
+}
+&.mdc-light-yellow {
+  background-color: $yellow-300;
+  * {
+    color: black;
+  }
+}

@@ -1,0 +1,18 @@
+&.mdc-cyan {
+  background-color: $cyan;
+  * {
+    color: black;
+  }
+}
+&.mdc-dark-cyan {
+  background-color: $cyan-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-cyan {
+  background-color: $cyan-300;
+  * {
+    color: black;
+  }
+}

@@ -1,0 +1,18 @@
+&.mdc-blue {
+  background-color: $blue;
+  * {
+    color: white;
+  }
+}
+&.mdc-dark-blue {
+  background-color: $blue-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-blue {
+  background-color: $blue-300;
+  * {
+    color: black;
+  }
+}

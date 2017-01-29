@@ -1,0 +1,14 @@
+@import url(http://weloveiconfonts.com/api/?family=fontelico);
+
+@import "_colors";
+@import "_reset";
+@import "_typesetting";
+@import "buttons";
+body {
+  background: url("../imgs/bg1.jpg");
+}
+
+.mdc-button {
+  @import "colors/colors";
+}
+@import "style.scss";

@@ -1,0 +1,18 @@
+&.mdc-orange {
+  background-color: $orange;
+  * {
+    color: black;
+  }
+}
+&.mdc-dark-orange {
+  background-color: $orange-700;
+  * {
+    color: black;
+  }
+}
+&.mdc-light-orange {
+  background-color: $orange-300;
+  * {
+    color: black;
+  }
+}

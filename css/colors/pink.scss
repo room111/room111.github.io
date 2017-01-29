@@ -1,0 +1,18 @@
+&.mdc-pink {
+  background-color: $pink;
+  * {
+    color: white;
+  }
+}
+&.mdc-dark-pink {
+  background-color: $pink-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-pink {
+  background-color: $pink-300;
+  * {
+    color: white;
+  }
+}

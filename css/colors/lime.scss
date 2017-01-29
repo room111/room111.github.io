@@ -1,0 +1,18 @@
+&.mdc-lime {
+  background-color: $lime;
+  * {
+    color: black;
+  }
+}
+&.mdc-dark-lime {
+  background-color: $lime-700;
+  * {
+    color: black;
+  }
+}
+&.mdc-light-lime {
+  background-color: $lime-300;
+  * {
+    color: black;
+  }
+}

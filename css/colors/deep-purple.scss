@@ -1,0 +1,18 @@
+&.mdc-deep-purple {
+  background-color: $deep-purple;
+  * {
+    color: white;
+  }
+}
+&.mdc-dark-deep-purple {
+  background-color: $deep-purple-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-deep-purple {
+  background-color: $deep-purple-300;
+  * {
+    color: white;
+  }
+}

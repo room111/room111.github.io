@@ -1,0 +1,18 @@
+&.mdc-deep-orange {
+  background-color: $deep-orange;
+  * {
+    color: white;
+  }
+}
+&.mdc-dark-deep-orange {
+  background-color: $deep-orange-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-deep-orange {
+  background-color: $deep-orange-300;
+  * {
+    color: black;
+  }
+}

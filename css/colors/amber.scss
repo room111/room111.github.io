@@ -1,0 +1,18 @@
+&.mdc-amber {
+  background-color: $amber;
+  * {
+    color: black;
+  }
+}
+&.mdc-dark-amber {
+  background-color: $amber-700;
+  * {
+    color: black;
+  }
+}
+&.mdc-light-amber {
+  background-color: $amber-300;
+  * {
+    color: black;
+  }
+}

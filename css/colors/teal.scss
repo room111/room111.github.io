@@ -1,0 +1,18 @@
+&.mdc-teal {
+  background-color: $teal;
+  * {
+    color: white;
+  }
+}
+&.mdc-dark-teal {
+  background-color: $teal-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-teal {
+  background-color: $teal-300;
+  * {
+    color: black;
+  }
+}

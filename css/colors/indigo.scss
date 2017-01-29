@@ -1,0 +1,18 @@
+&.mdc-indigo {
+  background-color: $indigo;
+  * {
+    color: white;
+  }
+}
+&.mdc-dark-indigo {
+  background-color: $indigo-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-indigo {
+  background-color: $indigo-300;
+  * {
+    color: white;
+  }
+}

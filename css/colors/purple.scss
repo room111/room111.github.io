@@ -1,0 +1,18 @@
+&.mdc-purple {
+  background-color: $purple;
+  * {
+    color: white;
+  }
+}
+&.mdc-dark-purple {
+  background-color: $purple-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-purple {
+  background-color: $purple-300;
+  * {
+    color: white;
+  }
+}

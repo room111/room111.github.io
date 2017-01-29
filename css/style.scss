@@ -1,0 +1,45 @@
+$f1: "Lora";
+$f2: "Barrio";
+$f3: "Bitter";
+
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0; 
+}
+
+body {
+  background-size: cover;
+  background-position: center; 
+
+  * {
+    font-family: $f3;
+  }
+}
+
+.fontelico {
+  font-family: "fontelico";
+  padding-right: 10px;
+}
+
+.main {
+  display: block;
+  position: absolute;
+  left: calc(50% - 20px);
+  top: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+h1 {
+  font-family: $f1;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: $f2;
+}
+
+p, span {
+  font-family: $f3;
+}

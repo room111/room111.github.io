@@ -1,0 +1,18 @@
+&.mdc-light-green {
+  background-color: $light-green;
+  * {
+    color: black;
+  }
+}
+&.mdc-dark-light-green {
+  background-color: $light-green-700;
+  * {
+    color: white;
+  }
+}
+&.mdc-light-light-green {
+  background-color: $light-green-300;
+  * {
+    color: black;
+  }
+}

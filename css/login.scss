@@ -1,0 +1,31 @@
+@import url(http://weloveiconfonts.com/api/?family=fontelico);
+
+@import "_colors";
+@import "_reset";
+@import "_typesetting";
+@import "buttons";
+body {
+  background: url("../imgs/bg2.jpg");
+}
+
+input.mdc-button {
+  transition: all .5s;
+  border-width: 5px !important;
+  border-color: $blue-grey !important;
+  border-style: solid;
+  background: transparent;
+  text-transform: none;
+  &.error {
+    border-color: $red-700 !important;
+  }
+  &.success {
+    border-color: $green !important;
+  }
+}
+
+
+button {
+  border: none;
+  @import "colors/blue-grey.scss"
+}
+@import "style.scss";
