@@ -1409,7 +1409,7 @@ fieldset:disabled .mdc-button--raised, .mdc-button--raised:disabled {
   animation: mdc-ripple-fg-unbounded-opacity-deactivate var(--mdc-ripple-fg-unbounded-opacity-duration) linear, mdc-ripple-fg-unbounded-transform-deactivate var(--mdc-ripple-fg-unbounded-transform-duration) cubic-bezier(0.157, 0.72, 0.386, 0.987); }
 
 body {
-  background: url("../imgs/bg1.jpg"); }
+  background: url("../imgs/bg1.JPG"); }
 
 .mdc-button.mdc-amber {
   background-color: #ffc107; }
