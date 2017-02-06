@@ -77,8 +77,8 @@ var ids = {
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
          money: "Earn 20 C1Cs. 0.00/20.00"
-    },"maddy4811": {
-         name: "Maddy",
+    },"maddie4811": {
+         name: "Maddie",
          balance: "00.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
