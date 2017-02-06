@@ -150,7 +150,7 @@ var ids = {
          jokes: "Share 2 funny jokes. 0/2",
          money: "Earn 20 C1Cs. 0.00/20.00"
     },"avi2753": {
-         name: "Owen",
+         name: "Avi",
          balance: "00.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
