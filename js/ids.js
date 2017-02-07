@@ -7,10 +7,10 @@ var ids = {
   people: {
     "ellie4811": {
          name: "Ellie",
-         balance: "00.00",
+         balance: "1.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 0.00/20.00"
+         money: "Earn 20 C1Cs. 1.00/20.00"
     },"paul2941": {
          name: "Paul",
          balance: "00.00",
@@ -19,13 +19,13 @@ var ids = {
          money: "Earn 20 C1Cs. 0.00/20.00"
     },"lindsey4811": {
          name: "Lindsey",
-         balance: "00.00",
+         balance: "1.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 0.00/20.00"
+         money: "Earn 20 C1Cs. 1.00/20.00"
     },"will4777": {
          name: "Will",
-         balance: "00.00",
+         balance: "00.50",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
          money: "Earn 20 C1Cs. 0.00/20.00"
@@ -55,10 +55,10 @@ var ids = {
          money: "Earn 20 C1Cs. 0.00/20.00"
     },"sara4806": {
          name: "Sara",
-         balance: "00.00",
+         balance: "1.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 0.00/20.00"
+         money: "Earn 20 C1Cs. 1.00/20.00"
     },"abby4811": {
          name: "Abby",
          balance: "00.00",
@@ -79,10 +79,10 @@ var ids = {
          money: "Earn 20 C1Cs. 0.00/20.00"
     },"maddie4811": {
          name: "Maddie",
-         balance: "00.00",
+         balance: "1.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 0.00/20.00"
+         money: "Earn 20 C1Cs. 1.00/20.00"
     },"alex4806": {
          name: "Alex",
          balance: "00.00",
@@ -91,10 +91,10 @@ var ids = {
          money: "Earn 20 C1Cs. 0.00/20.00"
     },"jordan4861": {
          name: "Jordan",
-         balance: "00.00",
+         balance: "1.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 0.00/20.00"
+         money: "Earn 20 C1Cs. 1.00/20.00"
     },"nesler81": {
          name: "Josh",
          balance: "00.00",
