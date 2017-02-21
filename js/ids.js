@@ -19,10 +19,10 @@ var ids = {
          money: "Earn 20 C1Cs. 3.00/20.00"
     },"lindsey4811": {
          name: "Lindsey",
-         balance: "5.00",
+         balance: "6.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 5.00/20.00"
+         money: "Earn 20 C1Cs. 6.00/20.00"
     },"will4777": {
          name: "Will",
          balance: "3.00",
@@ -43,10 +43,10 @@ var ids = {
          money: "Earn 20 C1Cs. 3.00/20.00"
     },"reed2753": {
          name: "Reed",
-         balance: "3.00",
+         balance: "4.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 3.00/20.00"
+         money: "Earn 20 C1Cs. 4.00/20.00"
     },"josh2954": {
          name: "Josh",
          balance: "3.00",
@@ -145,10 +145,10 @@ var ids = {
          money: "Earn 20 C1Cs. 3.00/20.00"
     },"sillygoat": {
          name: "Drew",
-         balance: "2.00",
+         balance: "3.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 2.00/20.00"
+         money: "Earn 20 C1Cs. 3.00/20.00"
     },"avi2753": {
          name: "Avi",
          balance: "3.00",
