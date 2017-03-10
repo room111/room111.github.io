@@ -73,10 +73,10 @@ var ids = {
          money: "Earn 20 C1Cs. 6.00/20.00"
     },"brandon4806": {
          name: "Brandon",
-         balance: "4.00",
+         balance: "7.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 4.00/20.00"
+         money: "Earn 20 C1Cs. 7.00/20.00"
     },"maddie4811": {
          name: "Maddie",
          balance: "7.00",
