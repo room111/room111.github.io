@@ -248,11 +248,12 @@ hr {
 #page-docu header h1{
 	font-size: 3em
 }
-#page-docu header p, #page-docu header input, #page-docu header button{
+#page-docu header p, input, textarea, #page-docu header button{
 	font-size: 31px !important;
 }
 
-#page-docu header input.passcode{
+input, textarea{
+    width: 100%;
 	padding: 10px;
 	background: rgba(0,0,0,0.4);
 	border: none;
@@ -260,7 +261,7 @@ hr {
 	outline: none;
 }
 
-#page-docu header input.passcode:active, #page-docu header input.passcode:focus{
+input:active, input:focus, textarea:active, textarea:focus{
 	padding: 10px;
 	background: rgba(255,255,255,0.5);
 	border: none;

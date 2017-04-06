@@ -98,11 +98,13 @@
 		// navigation menu clicks
 		navItems.forEach(function(item) {
 			// which page to open?
+            if(item.getAttribute('href').indexOf('#') > -1){
 			var pageid = item.getAttribute('href').slice(1);
 			item.addEventListener('click', function(ev) {
 				ev.preventDefault();
 				openPage(pageid);
 			});
+            }
 		});
 
 		// clicking on a page when the menu is open triggers the menu to close again and open the clicked page
