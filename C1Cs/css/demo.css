@@ -48,7 +48,7 @@
 
 /* Main styles */
 
-body {
+html, body {
 	font-family: 'Avenir Next', Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
 	margin: 0;
 	color: #cecece;
