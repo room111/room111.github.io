@@ -293,3 +293,7 @@ $(".submit, .submit *").click(function(){
     $(".passcode").addClass("error");
   }
 })
+
+$(".send").click(function (){
+	window.open("mailto:sball@dps109.org?subject="+$("#subject").val()+"&body="+$("#content").val()+"     --From "+$("#name").val(),"_self")
+})
