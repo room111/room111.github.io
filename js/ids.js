@@ -7,17 +7,10 @@ var ids = {
   people: {
     "ellie4811": {
          name: "Ellie",
-<<<<<<< HEAD
-         balance: "1.00",
-         compliment: "Give three compliments. 0/3",
-         jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 1.00/20.00"
-=======
          balance: "11.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
          money: "Earn 20 C1Cs. 11.00/20.00"
->>>>>>> origin/master
     },"paul2941": {
          name: "Paul",
          balance: "5.00",
@@ -29,11 +22,7 @@ var ids = {
          balance: "12.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
-<<<<<<< HEAD
-         money: "Earn 20 C1Cs. 0.00/20.00"
-=======
          money: "Earn 20 C1Cs. 12.00/20.00"
->>>>>>> origin/master
     },"will4777": {
          name: "Will",
          balance: "11.00",
@@ -66,17 +55,10 @@ var ids = {
          money: "Earn 20 C1Cs. 5.00/20.00"
     },"sara4806": {
          name: "Sara",
-<<<<<<< HEAD
-         balance: "1.00",
-         compliment: "Give three compliments. 0/3",
-         jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 1.00/20.00"
-=======
          balance: "3.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
          money: "Earn 20 C1Cs. 9.00/20.00"
->>>>>>> origin/master
     },"abby4811": {
          name: "Abby",
          balance: "00.00",
@@ -109,19 +91,11 @@ var ids = {
          money: "Earn 20 C1Cs. 10.00/20.00"
     },"jordan4861": {
          name: "Jordan",
-<<<<<<< HEAD
-         balance: "1.00",
-         compliment: "Give three compliments. 0/3",
-         jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 1.00/20.00"
-    },"josh4860": {
-=======
          balance: "8.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
          money: "Earn 20 C1Cs. 8.00/20.00"
     },"nesler81": {
->>>>>>> origin/master
          name: "Josh",
          balance: "5.00",
          compliment: "Give three compliments. 0/3",
@@ -153,17 +127,10 @@ var ids = {
          money: "Earn 20 C1Cs. 5.00/20.00"
     },"ari4811": {
          name: "Ari",
-<<<<<<< HEAD
-         balance: "1.00",
-         compliment: "Give three compliments. 0/3",
-         jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 1.00/20.00"
-=======
          balance: "10.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
          money: "Earn 20 C1Cs. 15.00/20.00"
->>>>>>> origin/master
     },"addison4806": {
          name: "Addison",
          balance: "4.00",
@@ -178,17 +145,10 @@ var ids = {
          money: "Earn 20 C1Cs. 5.00/20.00"
     },"sillygoat": {
          name: "Drew",
-<<<<<<< HEAD
-         balance: "1.00",
-         compliment: "Give three compliments. 0/3",
-         jokes: "Share 2 funny jokes. 0/2",
-         money: "Earn 20 C1Cs. 1.00/20.00"
-=======
          balance: "11.00",
          compliment: "Give three compliments. 0/3",
          jokes: "Share 2 funny jokes. 0/2",
          money: "Earn 20 C1Cs. 11.00/20.00"
->>>>>>> origin/master
     },"avi2753": {
          name: "Avi",
          balance: "5.00",
@@ -209,7 +169,9 @@ for (key in ids.people){
   }
 }
 $("[data-replace=name]").text($("[data-replace=name]").text().replace("{{}}", person.name))
+alert($("[data-replace=name]").text());
 $("[data-replace=balance]").html($("[data-replace=balance]").html().replace("{{}}", person.balance))
 $("[data-replace=compliment]").text($("[data-replace=compliment]").text().replace("{{}}", person.compliment ))
 $("[data-replace=jokes]").text($("[data-replace=jokes]").text().replace("{{}}", person.jokes ))
-$("[data-replace=money]").text($("[data-replace=money]").text().replace("{{}}", person.money ))
+$("[data-replace=money]").text($("[data-replace=money]").text().replace("{{}}", person.money ));
+console.log(JSON.stringify(person))
