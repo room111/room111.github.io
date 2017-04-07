@@ -3,8 +3,16 @@ var ids = {
   "uwoogt5026","tggf2753","lquj2954","uctc4806","cdda4811",
   "ocz4806","dtcpfqp4806","ocffkg4811","cngz4806","lqtfcp4861",
   "pgungt81","goknkg5568","kcp4781","cnckpc5107","nqnc4967",
-  "ctk4811","cffkuqp4806","ctk8057","uknnaiqcv","cxk2753"],
+  "ctk4811","cffkuqp4806","ctk8057","uknnaiqcv","cxk2753","fgoq"],
   people: {
+    
+    "demo": {
+         name: "Class",
+         balance: "20.00",
+         compliment: "Give three compliments. 3/3",
+         jokes: "Share 2 funny jokes. 2/2",
+         money: "Earn 20 C1Cs. 20.00/20.00"
+    },
     "ellie4811": {
          name: "Ellie",
          balance: "11.00",
