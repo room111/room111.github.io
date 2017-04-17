@@ -3,4 +3,4 @@ title: posts
 date: 2017-04-17 23:28:00 Z
 ---
 
-{{sites.pages}}
+{{site.posts}}
